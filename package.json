@@ -1,1 +1,11 @@
-{"name":"hku-interview-studio","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","check":"node scripts/check.mjs"}}
+{
+  "name": "hku-interview-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
